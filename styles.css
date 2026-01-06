@@ -8,6 +8,11 @@
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
   padding: 0;
   box-sizing: border-box;
+    border: 10px solid #8b5a2b; /* matches WANTED */
+
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+  padding: 0;
+  box-sizing: border-box;
 }
 
 /* ALL your design styles must be scoped inside .my-design */
